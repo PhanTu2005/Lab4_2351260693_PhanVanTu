@@ -1,0 +1,21 @@
+{
+  "sentence": "Moi khach hang so 23 den quay 5.",
+  "tokens": [
+    "moi",
+    "khach",
+    "hang",
+    "so",
+    "hai",
+    "ba",
+    "den",
+    "quay",
+    "nam"
+  ],
+  "selected_total_join_cost": 576.7974386725411,
+  "crossfade_ms": 15,
+  "sample_rate": 16000,
+  "channels": 1,
+  "bit_depth": 16,
+  "audio_source": "synthetic harmonic/formant-like signals; not human speech",
+  "neural_model_available": false
+}
